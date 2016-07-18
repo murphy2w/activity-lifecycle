@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\exersize\guide\activity-lifecycle1\app\libs\android-support-v13.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ecda966839090a41b29a9239d44bafc06fdadb87">
+        <dex dex="D:\exersize\guide\activity-lifecycle1\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v13_c2968954191671822d0516be5049a98848735936\classes.dex" />
+    </item>
+    <item
+        jar="D:\exersize\guide\activity-lifecycle1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="102a588018f96b4fa2e20cc804ca56b886b5377f">
+        <dex dex="D:\exersize\guide\activity-lifecycle1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_6edc4f90ad81ed40b1271f0a516e42dd4a7d2bc2\classes.dex" />
+    </item>
+    <item
+        jar="D:\exersize\guide\activity-lifecycle1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="dd55994bde743c243fc53e761445ef3990d512e5">
+        <dex dex="D:\exersize\guide\activity-lifecycle1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f713551f461e0df3d61f7a182443255aea5d93f8\classes.dex" />
+    </item>
+
+</items>
